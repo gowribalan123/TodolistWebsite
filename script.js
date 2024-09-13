@@ -35,9 +35,7 @@ document.getElementById('todos-button').onclick = function() {
                   
                 `;  
                 tableBody.appendChild(row);
-               
-                 
-               // console.log(tasks);
+                
    document.getElementById('todo-table').style.display = 'block';    
    
               
